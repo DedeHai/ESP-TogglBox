@@ -5,7 +5,7 @@ License:
 Software under MIT license
 Hardware under Creative Commons 4.0 license: CC-BY-NC-SA
 
-#Fotos
+#Photos
 ![First Finished Box](/images/IMG_20160521_090729.jpg) 
 
 ![Second Box](/images/DSCF3311.jpg) 
