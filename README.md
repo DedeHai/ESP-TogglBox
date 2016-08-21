@@ -8,11 +8,11 @@ Hardware under Creative Commons 4.0 license: CC-BY-NC-SA
 #Photos
 ![First Finished Box](/images/IMG_20160521_090729.jpg) 
 
-![Second Box](/images/DSCF3311.jpg) 
+![Second Box](/images/DSCF3311.JPG) 
 
 ![Behind the scenes 1](/images/IMG_20160521_090759.jpg) 
 
-![Behind the scenes 2](/images/DSCF3317.jpg) 
+![Behind the scenes 2](/images/DSCF3317.JPG) 
 
-![Bootup](/images/DSCF3320.jpg) 
+![Bootup](/images/DSCF3320.JPG) 
 
